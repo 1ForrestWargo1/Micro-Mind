@@ -1,5 +1,9 @@
 # Virtualenv
+ven/*
+
+# specific rules
 venv/
+.DS_Store
 
 # Virtualenv files
 venv_*
